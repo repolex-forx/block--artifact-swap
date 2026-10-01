@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/artifact-swap/commit/6715907acef67e3347273853ac1aa4bdd894cc57",
       "git:hexsha": "6715907acef67e3347273853ac1aa4bdd894cc57",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.15"
     },
     {
