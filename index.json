@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "artifact-swap",
+  "versions": [
+    {
+      "commit": "6715907acef67e3347273853ac1aa4bdd894cc57",
+      "tag": "main",
+      "parsed_at": "2026-10-01T09:34:07.200926+00:00"
+    }
+  ]
+}
